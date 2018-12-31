@@ -9,7 +9,7 @@
 <!ENTITY bundleURL "https://raw.githubusercontent.com/Waseh/rclone-unraid/master/archive/rclone-&bundleversion;-x86_64-1.txz">
 <!ENTITY rcloneversion "v1.45">
 <!ENTITY rclonefile "rclone-&rcloneversion;-linux-amd64">
-<!ENTITY rcloneurl "http://downloads.rclone.org/&rclonefile;.zip">
+<!ENTITY rcloneurl "https://downloads.rclone.org/rclone-current-linux-amd64.zip">
 <!ENTITY md5 "398d20b3c849e5c20d0a9c1db8d25bfd">
 <!ENTITY md5bundle "3a2125ad6e70ffbd1f8cad24e27035b2">
 ]>
